@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello
+=======
+Hello
+>>>>>>> 2fb289d (hello)
